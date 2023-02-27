@@ -4,7 +4,7 @@ package tamerlan;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-
+//here is I used regex, but for interview it is not recommended 
 
 public class Spelling {
     public static void main(String[] args) {
